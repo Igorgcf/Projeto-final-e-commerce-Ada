@@ -148,3 +148,5 @@ Generics
 Persistência simples com arquivos .dat
 
 Console interativo (Scanner)
+
+![image](https://retail-merchandiser.com/wp-content/uploads/sites/8/2024/04/Immersive-Commerce-642-Headline-Image.jpg)
