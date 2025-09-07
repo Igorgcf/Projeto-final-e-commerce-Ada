@@ -132,5 +132,19 @@ Exemplo de menu inicial:
 3 - Gerenciar Pedidos
 0 - Sair
 Escolha:
-
 ```
+Dentro de Clientes, Produtos ou Pedidos, você encontra submenus para realizar todas as operações.
+
+⭐ Tecnologias
+
+Java 17+
+
+Orientação a Objetos
+
+Interfaces
+
+Generics
+
+Persistência simples com arquivos .dat
+
+Console interativo (Scanner)
