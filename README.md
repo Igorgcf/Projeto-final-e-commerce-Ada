@@ -102,12 +102,12 @@ src/
  
  │    ├── PedidoRepository.java
  
- ├── model/
+ ├── entities/
  
-      ├── Cliente.java
+ │   ├── Cliente.java
       
-      ├── Produto.java
+ │   ├── Produto.java
       
-      ├── Pedido.java
+ │   ├── Pedido.java
       
-      ├── ItemPedido.java
+ │  ├── ItemPedido.java
