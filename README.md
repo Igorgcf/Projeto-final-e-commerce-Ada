@@ -111,3 +111,26 @@ src/
  │   ├── Pedido.java
       
  │  ├── ItemPedido.java
+
+
+💻 Como executar
+Clonar repositório
+```bash
+git clone https://github.com/Igorgcf/Projeto-final-e-commerce-Ada.git
+```
+
+🕹️ Como usar
+
+O sistema é totalmente interativo via terminal.
+
+Exemplo de menu inicial:
+
+```bash
+=== ADA COMMERCE ===
+1 - Gerenciar Clientes
+2 - Gerenciar Produtos
+3 - Gerenciar Pedidos
+0 - Sair
+Escolha:
+
+```
